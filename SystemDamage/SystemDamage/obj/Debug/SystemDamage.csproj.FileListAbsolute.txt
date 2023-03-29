@@ -1,0 +1,8 @@
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\bin\Debug\SystemDamage.exe.config
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\bin\Debug\SystemDamage.exe
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\bin\Debug\SystemDamage.pdb
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\obj\Debug\SystemDamage.csproj.AssemblyReference.cache
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\obj\Debug\SystemDamage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\obj\Debug\SystemDamage.csproj.CoreCompileInputs.cache
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\obj\Debug\SystemDamage.exe
+C:\Users\Frozen\Documents\GitHub\CSLight\SystemDamage\SystemDamage\obj\Debug\SystemDamage.pdb
